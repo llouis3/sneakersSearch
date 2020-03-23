@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "65683640917",
+    "firebase_url": "https://testsneakers-5a3ac.firebaseio.com",
+    "project_id": "testsneakers-5a3ac",
+    "storage_bucket": "testsneakers-5a3ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65683640917:android:a5256c42ee2b022abefadc",
+        "android_client_info": {
+          "package_name": "com.sneakers.search"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65683640917-egm5m4mrl08k5v29gt0paelb4hpe54u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPVHcRy2t2pe7KJDkLB9Qr262rRJ6tvOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65683640917-egm5m4mrl08k5v29gt0paelb4hpe54u2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
